@@ -2,6 +2,8 @@
 
 ## Full Stack Developer | Illustrator | Cartoonist | Game Enthusiast
 
+## [Please check out my portfolio!](https://sgsouthard.github.io/)
+
 ### Pronouns
 She/Her
 
