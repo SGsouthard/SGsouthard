@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hello! I'm Sydney Good-Southard
+
+## Full Stack Developer | Illustrator | Cartoonist | Game Enthusiast
+
+#### Pronouns
+She/Her
+
+
 
 <!--
 **SGsouthard/SGsouthard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
